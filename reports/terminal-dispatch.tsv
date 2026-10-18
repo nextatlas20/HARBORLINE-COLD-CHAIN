@@ -1,0 +1,4 @@
+terminal	containers	clear	hold	no_valid_reading	held_pallets
+EastDock	2	1	0	1	0
+NorthPier	2	0	2	0	27
+SouthQuay	1	0	0	1	0
