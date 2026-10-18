@@ -1,0 +1,6 @@
+container_id	cargo_class	terminal	pallets	temperature_limit_c
+C-104	Citrus	NorthPier	18	8
+C-117	Cheese	EastDock	12	4
+C-203	Flowers	NorthPier	9	10
+C-221	Vaccines	EastDock	6	5
+C-305	Citrus	SouthQuay	20	8
