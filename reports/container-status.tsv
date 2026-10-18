@@ -1,0 +1,6 @@
+container_id	cargo_class	terminal	pallets	selected_reading_id	recorded_at	temperature_c	limit_c	status
+C-104	Citrus	NorthPier	18	R-02	2026-06-03T12:00	8.4	8	HOLD
+C-117	Cheese	EastDock	12	R-04	2026-06-03T08:00	4.0	4	CLEAR
+C-203	Flowers	NorthPier	9	R-10	2026-06-03T10:00	10.1	10	HOLD
+C-221	Vaccines	EastDock	6	NONE	NONE	NONE	5	NO_VALID_READING
+C-305	Citrus	SouthQuay	20	NONE	NONE	NONE	8	NO_VALID_READING
